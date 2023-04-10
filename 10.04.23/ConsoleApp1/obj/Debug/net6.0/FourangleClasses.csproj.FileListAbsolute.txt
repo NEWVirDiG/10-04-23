@@ -1,0 +1,15 @@
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.csproj.AssemblyReference.cache
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.AssemblyInfoInputs.cache
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.AssemblyInfo.cs
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.csproj.CoreCompileInputs.cache
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\bin\Debug\net6.0\FourangleClasses.exe
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\bin\Debug\net6.0\FourangleClasses.deps.json
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\bin\Debug\net6.0\FourangleClasses.runtimeconfig.json
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\bin\Debug\net6.0\FourangleClasses.dll
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\bin\Debug\net6.0\FourangleClasses.pdb
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.dll
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\refint\FourangleClasses.dll
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.pdb
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\FourangleClasses.genruntimeconfig.cache
+D:\ИСП21.1А\Девяткин Эдуард\10.04.23\ConsoleApp1\obj\Debug\net6.0\ref\FourangleClasses.dll
